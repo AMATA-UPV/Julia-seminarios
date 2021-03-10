@@ -4,7 +4,7 @@ Seminarios de introducción al lenguaje [Julia](https://julialang.org/)
 ## Primeros pasos:
 - Instalación de Julia:
   - Descargar la [última versión](https://julialang.org/downloads/) para nuestro sistema operativo.
-  - Si se quiere tener acceso a Julia desde el terminal de Windows seguir los pasos que se indican [aquí](https://julialang.org/downloads/platform/#windows).
+  - (opcional) Si se quiere tener acceso a Julia desde el terminal de Windows seguir los pasos que se indican [aquí](https://julialang.org/downloads/platform/#windows).
   - (opcional) Para los usuarios de Windows es interesante trabajar con el nuevo [Windows Terminal](https://www.microsoft.com/es-es/p/windows-terminal/9n0dx20hk701?rtc=1&activetab=pivot:overviewtab).
 - Instalación de un editor (opcional):
   - IDE [Juno](https://junolab.org/). Opcionalmente, se puede descargar [Juliapro](https://juliacomputing.com/products/juliapro/) que incluye Julia con el entorno de desarrollo Juno (requiere creación de una cuenta).
