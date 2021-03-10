@@ -14,4 +14,3 @@ Seminarios de introducción al lenguaje [Julia](https://julialang.org/)
 ## Comienzo rápido
 - [Fast track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)
 - [Cheatsheet](https://cheatsheets.quantecon.org/) Matlab vs Julia
-- 
