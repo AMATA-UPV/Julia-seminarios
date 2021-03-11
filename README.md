@@ -11,7 +11,8 @@ Seminarios de introducción al lenguaje [Julia](https://julialang.org/)
   - IDE [VS Code](https://code.visualstudio.com/)
 - Instalación de [Pluto](https://github.com/fonsp/Pluto.jl/blob/master/README.md) notebook (opcional). Hay un tutorial de [instalación de Julia + Pluto](https://computationalthinking.mit.edu/Fall20/installation/) del curso del MIT [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)
 
-## Comienzo rápido
+## Recursos
 - [Fast track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)
 - [Cheatsheet](https://cheatsheets.quantecon.org/) Matlab vs Julia
-- [Tutorial]()
+- [Tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
+- [Canal YouTube](https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA/playlists)
