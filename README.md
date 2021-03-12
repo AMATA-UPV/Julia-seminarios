@@ -12,12 +12,12 @@ Seminarios de introducción al lenguaje [Julia](https://julialang.org/) para el 
   - IDE [Juno](https://junolab.org/). Opcionalmente, se puede descargar [Juliapro](https://juliacomputing.com/products/juliapro/) que incluye Julia con el entorno de desarrollo Juno (requiere creación de una cuenta).
   - IDE [VS Code](https://code.visualstudio.com/)
 - Instalación de un entorno interactivo (opcional):
-  - Instalación de [IJulia](https://github.com/JuliaLang/IJulia.jl) notebook. Permite utilizar el entorno gráfico Jupyter para python (IPython) con el lenguaje Julia. 
+  - Instalación de [IJulia](https://github.com/JuliaLang/IJulia.jl) notebook. Permite utilizar el entorno gráfico Jupyter para python (IPython) con el lenguaje Julia.
   - Instalación de [Pluto](https://github.com/fonsp/Pluto.jl/blob/master/README.md) notebook. Parecido a IJulia pero con la característica de que es reactivo, cualquier cambio en el notebook se refleja inmediatamene en todo el documento (espectacular !!). Hay un tutorial de [instalación de Julia + Pluto](https://computationalthinking.mit.edu/Fall20/installation/) del curso del MIT [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)
 - Alternativas a la instalación:
 Se puede desarrolar código en Julia en la nube, sin necesidad de instalar localmente el compilador y entorno de desarrollo. Similar a la solución de Matlab Online.
-  - [Binder](https://mybinder.org/) Permite ejecutar una colección de Jupyter notebooks (IJulia) alojados en un repositorio (por ejemplo en [Github](https://github.com) del que hablaremos en otra ocasión) interactivamente en nuestro navegador. Un proyecto muy interesante. 
-  - [Colab](https://colab.research.google.com). Un notebook interactivo de google. Inicialmente para ejectuar Jupyter notebook en la nube, es posible utilizarlo para ejecutar Julia siguiendo estas [instrucciones](https://github.com/Dsantra92/Julia-on-Colab). 
+  - [Binder](https://mybinder.org/) Permite ejecutar una colección de Jupyter notebooks (IJulia) alojados en un repositorio (por ejemplo en [Github](https://github.com) del que hablaremos en otra ocasión) interactivamente en nuestro navegador. Un proyecto muy interesante.
+  - [Colab](https://colab.research.google.com). Un notebook interactivo de google. Inicialmente para ejectuar Jupyter notebook en la nube, es posible utilizarlo para ejecutar Julia siguiendo estas [instrucciones](https://github.com/Dsantra92/Julia-on-Colab).
   - [Replit](https://replit.com/). Es un entorno IDE en la nube. Permite el desarrollo de software y ejecución en diversos lenguajes.
 
 ## Recursos
