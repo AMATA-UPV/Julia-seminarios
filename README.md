@@ -1,7 +1,9 @@
 # Julia-seminarios
+
 Seminarios de introducción al lenguaje [Julia](https://julialang.org/)
 
-## Primeros pasos:
+## Primeros pasos
+
 - Instalación de Julia:
   - Descargar la [última versión](https://julialang.org/downloads/) para nuestro sistema operativo.
   - (opcional) Si se quiere tener acceso a Julia desde el terminal de Windows seguir los pasos que se indican [aquí](https://julialang.org/downloads/platform/#windows).
@@ -12,6 +14,7 @@ Seminarios de introducción al lenguaje [Julia](https://julialang.org/)
 - Instalación de [Pluto](https://github.com/fonsp/Pluto.jl/blob/master/README.md) notebook (opcional). Hay un tutorial de [instalación de Julia + Pluto](https://computationalthinking.mit.edu/Fall20/installation/) del curso del MIT [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)
 
 ## Recursos
+
 - [Fast track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)
 - [Cheatsheet](https://cheatsheets.quantecon.org/) Matlab vs Julia
 - [Tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
