@@ -1,6 +1,6 @@
-# Julia-seminarios
+# Seminarios de iniciación al lenguaje de programación Julia
 
-Seminarios de introducción al lenguaje [Julia](https://julialang.org/)
+Seminarios de introducción al lenguaje [Julia](https://julialang.org/) para el grupo de investigación AMATA de la UPV.
 
 ## Primeros pasos
 
