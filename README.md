@@ -35,7 +35,7 @@ Los siguientes enlaces recogen y resumen mucha información que nos puede er út
 
 ## Seminarios
 El curso se organiza en diferentes sesiones prácticas.
-- Seminario 1. Instalación y sintáxis básica de Julia ([fichero](./seminario1/seminario1.ipynb)).
+- Seminario 1. Instalación y sintáxis básica de Julia.
 
 ## Bonus
 - Documentación de [notebooks con LaTeX](./latex/latex.ipynb).
