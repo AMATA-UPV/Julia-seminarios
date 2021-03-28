@@ -22,7 +22,7 @@ Para el desarrollo de software tenemos varias opciones.
 
 Finalmente, tenemos la posibilidad de editar y ejecutar nuestro código utilizando servicios en la nube, sin necesidad de instalación local. Puede ser una buena opción para una primera toma de contacto con Julia. Similar a la solución Matlab Online para MATLAB.
 - Ejecución de Julia en servicios en la nube:
-  - [Binder](https://mybinder.org/) Permite ejecutar una colección de notebooks IJulia alojados en un repositorio interactivamente en nuestro navegador (por ejemplo alojados en [Github](https://github.com) del que hablaremos en otra ocasión). 
+  - [Binder](https://mybinder.org/) Permite ejecutar una colección de notebooks IJulia alojados en un repositorio interactivamente en nuestro navegador (por ejemplo alojados en [Github](https://github.com) del que hablaremos en otra ocasión). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AMATA-UPV/Julia-seminarios.git/main)
   - [Colab](https://colab.research.google.com). Un notebook interactivo de Google. Inicialmente pensado para ejectuar Jupyter notebook en la nube, es posible utilizarlo para ejecutar Julia siguiendo estas [instrucciones](https://github.com/Dsantra92/Julia-on-Colab).
   - [Replit](https://replit.com/). Es un entorno IDE en la nube. Permite el desarrollo de software y ejecución en diversos lenguajes.
 
