@@ -22,7 +22,7 @@ Para el desarrollo de software tenemos varias opciones.
 
 Finalmente, tenemos la posibilidad de editar y ejecutar nuestro código utilizando servicios en la nube, sin necesidad de instalación local. Puede ser una buena opción para una primera toma de contacto con Julia. Similar a la solución Matlab Online para MATLAB.
 - Ejecución de Julia en servicios en la nube:
-  - [Binder](https://mybinder.org/) Permite ejecutar una colección de notebooks IJulia alojados en un repositorio interactivamente en nuestro navegador (por ejemplo alojados en [Github](https://github.com) del que hablaremos en otra ocasión). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AMATA-UPV/Julia-seminarios.git/main)
+  - [Binder](https://mybinder.org/) Permite ejecutar una colección de notebooks IJulia alojados en un repositorio interactivamente en nuestro navegador (por ejemplo alojados en [Github](https://github.com) del que hablaremos en otra ocasión). 
   - [Colab](https://colab.research.google.com). Un notebook interactivo de Google. Inicialmente pensado para ejectuar Jupyter notebook en la nube, es posible utilizarlo para ejecutar Julia siguiendo estas [instrucciones](https://github.com/Dsantra92/Julia-on-Colab).
   - [Replit](https://replit.com/). Es un entorno IDE en la nube. Permite el desarrollo de software y ejecución en diversos lenguajes.
 
@@ -34,8 +34,10 @@ Los siguientes enlaces recogen y resumen mucha información que nos puede er út
 - [Canal YouTube](https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA/playlists)
 
 ## Seminarios
-El curso se organiza en diferentes sesiones prácticas.
-- Seminario 1. Instalación y sintáxis básica de Julia.
+El curso se organiza en diferentes sesiones prácticas. Los diferentes notebooks del curso se pueden ejecutar directamente en Binder  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AMATA-UPV/Julia-seminarios.git/main)
+
+- Seminario 1. Introducción al lenguaje Julia.
+Los [contenidos](./seminario1) del seminario está organizado en notebooks inspirados en este [video tutorial](https://www.youtube.com/watch?v=8h8rQyEpiZA) y en la [documentación oficial](https://docs.julialang.org/en/v1/manual/getting-started/).
 
 ## Bonus
 - Documentación de [notebooks con LaTeX](./latex/latex.ipynb).
